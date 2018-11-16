@@ -11,9 +11,10 @@ Obtained bifurcation diagram of COURNOT-PUU DUOPOLY MODEL:
 
 About the model:
  
-In the case of duopoly there are only two fi rms F1  and F2  on the market in the same industry,
+In the case of duopoly there are only two firms F1  and F2  on the market in the same industry,
 with output q1 = x(t)  and q2 = y(t) , respectively. For the equations there are some logical conditions, such as 
-с1 > 0 ,с2 > 0, х > 0,у >0
+с1 > 0 ,с2 > 0, х > 0,у >0.
+
 Source: Agliari A., Gardini L. and Puu T. 2000. The dynamics
 of a triopoly game. Chaos, Solitons and Fractals, Vol. 11,
 2531\[Dash]2560
