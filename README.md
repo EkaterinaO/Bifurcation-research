@@ -7,6 +7,10 @@ Obtained bifurcation diagram:
 
 ![alt text](https://github.com/EkaterinaO/Bifurcation-research/blob/master/bifurcation.png)
 
+![alt text](https://github.com/EkaterinaO/Bifurcation-research/blob/master/bifurcation2.png)
+
+
+
 There is a research of COURNOT-PUU DUOPOLY MODEL.
  
 In the case of duopoly there are only two fi rms F1  and F2  on the market in the same industry,
