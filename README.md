@@ -2,7 +2,10 @@
 Bifurcation research of dynamic systems.
 
 Unfortunately nb files cannot be viewed here. 
-Obtained bifurcation diagram saved in pdf files. 
+Obtained bifurcation diagram:
+
+
+![alt text](https://github.com/EkaterinaO/Bifurcation-research/blob/master/bifurcation.png)
 
 There is a research of COURNOT-PUU DUOPOLY MODEL.
  
