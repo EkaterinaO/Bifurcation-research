@@ -2,6 +2,8 @@
 Bifurcation research of dynamic systems.
 
 Unfortunately nb files cannot be viewed here. 
+Obtained bifurcation diagram saved in pdf files. 
+
 There is a research of COURNOT-PUU DUOPOLY MODEL.
  
 In the case of duopoly there are only two fi rms F1  and F2  on the market in the same industry,
