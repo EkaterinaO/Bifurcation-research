@@ -2,16 +2,14 @@
 Bifurcation research of dynamic systems.
 
 Unfortunately nb files cannot be viewed here. 
-Obtained bifurcation diagram:
+Obtained bifurcation diagram of COURNOT-PUU DUOPOLY MODEL:
 
 
 ![alt text](https://github.com/EkaterinaO/Bifurcation-research/blob/master/bifurcation.png)
 
 ![alt text](https://github.com/EkaterinaO/Bifurcation-research/blob/master/bifurcation2.png)
 
-
-
-There is a research of COURNOT-PUU DUOPOLY MODEL.
+About the model:
  
 In the case of duopoly there are only two fi rms F1  and F2  on the market in the same industry,
 with output q1 = x(t)  and q2 = y(t) , respectively. For the equations there are some logical conditions, such as 
