@@ -5,9 +5,9 @@ Unfortunately nb files cannot be viewed here.
 Obtained bifurcation diagram of COURNOT-PUU DUOPOLY MODEL:
 
 
-![alt text](https://github.com/EkaterinaO/Bifurcation-research/blob/master/bifurcation.png)
+![alt text](https://github.com/EkaterinaO/Bifurcation-research/blob/master/img/bifurcation.png)
 
-![alt text](https://github.com/EkaterinaO/Bifurcation-research/blob/master/bifurcation2.png)
+![alt text](https://github.com/EkaterinaO/Bifurcation-research/blob/master/img/bifurcation2.png)
 
 About the model:
  
